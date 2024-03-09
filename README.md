@@ -1,6 +1,3 @@
-# Astudistの使用感の動画
-Astudistの動画です。どんなアプリなのかを感じて頂けると幸いです。
+# Kamumusuhi
 
-https://user-images.githubusercontent.com/119731650/224481224-021b2b07-02b3-492d-87e7-78b77e471865.mp4
-
-※ファイルサイズの関係でかなり荒いです。ご容赦下さい。
+https://github.com/hthcrwzy/about_astudist/assets/119731650/e4c9b18d-158a-49a8-9813-87260a0a515c
